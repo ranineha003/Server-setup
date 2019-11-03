@@ -1,0 +1,28 @@
+{
+  "name": "server-setup",
+  "version": "1.0.0",
+  "description": "Server setup with express mongoDb and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranineha003/Server-setup.git"
+  },
+  "keywords": [
+    "Server",
+    "steup",
+    "and",
+    "angular"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranineha003/Server-setup/issues"
+  },
+  "homepage": "https://github.com/ranineha003/Server-setup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
